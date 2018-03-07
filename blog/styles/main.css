@@ -1,0 +1,35 @@
+body {
+    background: skyblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#title {
+    font-size: 80px;
+}
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: skyblue;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background: white;
+}
+.header {
+    margin: 2% 2% 8% 2%;
+}
+
+.content {
+    font-family: 'Doris', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 5% 5% 5% 5%;
+    background: white;
+
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
