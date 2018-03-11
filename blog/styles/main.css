@@ -18,15 +18,8 @@ h1 {
     margin: 2% 2% 4% 2%;
 }
 
-.content {
-    font-family: 'Doris', sans-serif;
-    font-size: 25px;
-    text-align: center;
-    margin: 5% 5% 5% 5%;
-
-}
-.row {
-    margin: 10%;
-    background: white;
-    font-family: 'Doris', sans-serif;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
