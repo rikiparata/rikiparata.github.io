@@ -35,8 +35,6 @@ li a:hover {
     color: white;
     padding: 3%;
 }
-
-.image {
-    height: 25px;
-    width: 25px;
+.home {
+    text-align: center;
 }
