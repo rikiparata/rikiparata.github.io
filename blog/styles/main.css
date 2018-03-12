@@ -35,6 +35,8 @@ li a:hover {
     color: white;
     padding: 3%;
 }
-.home {
-    text-align: center;
-}
+
+.wire-images {
+    display: inline-block;
+    max-width: 40%;
+  }
