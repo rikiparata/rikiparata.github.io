@@ -19,5 +19,19 @@ h1 {
 }
 
 .nav {
-    list-style-type: none;
+    background-color: white;
+    margin-left: 2.2%;
+    display: block;
+    width: 25%;
+    padding: 1%;
+    font-size: 150%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color:skyblue;
+    color: white;
+    padding: 3%;
 }
