@@ -53,7 +53,7 @@ nav ul li a:hover, .logo a:hover {
     vertical-align: bottom;
     text-align: center;
     padding: 5%;
-    padding-bottom: 26%;
+    padding-bottom: 25%;
   }
 #welcome {
     background-image:url("../images/work2.jpg");
@@ -64,21 +64,20 @@ nav ul li a:hover, .logo a:hover {
     font-size: 50px;
 }
 
-.cultural {
+.blogs {
     vertical-align: bottom;
     text-align: center;
-    padding: 5%;
+    padding: 2%;
     padding-bottom: 26%;
   }
-#cultural {
+#blogs {
     background-image:url("../images/work.jpg");
     background-size: 100%;
     color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   
     font-size: 50px;
 }
 
 .blogs {
-    padding-top: 20px;
+    padding-top: 50px;
 }
