@@ -52,7 +52,7 @@ nav ul li a:hover, .logo a:hover {
 .welcome {
     vertical-align: bottom;
     text-align: center;
-    padding: 5%;
+    padding: 4%;
     padding-bottom: 25%;
   }
 #welcome {
@@ -60,7 +60,6 @@ nav ul li a:hover, .logo a:hover {
     background-size: 100%;
     color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   
     font-size: 50px;
 }
 
@@ -71,14 +70,28 @@ nav ul li a:hover, .logo a:hover {
     padding-bottom: 26%;
   }
 #blogs {
-    background-image:url("../images/work.jpg");
-    background-size: 100%;
     color: aliceblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
 }
 
-.blogs {
-    padding-top: 50px;
-    image-resolution: 960*960px;
+h4 {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#links {
+    text-align: center;
+    padding-bottom: 4%;
+    padding-top: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-bottom: 20%;
+    margin-top: 2%;
+    margin-left: 2%;
 }
